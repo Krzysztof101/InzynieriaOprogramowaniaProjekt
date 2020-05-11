@@ -21,6 +21,7 @@ namespace AplikacjaStomatologiczna
         private void Form1_Load(object sender, EventArgs e)
         {
             int x; //zmiana
+            int y;//zmiana 2
         }
     }
 }
