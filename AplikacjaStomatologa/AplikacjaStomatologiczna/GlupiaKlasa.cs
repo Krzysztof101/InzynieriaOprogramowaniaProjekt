@@ -13,7 +13,7 @@ namespace AplikacjaStomatologiczna
         {
             
             get { return ii; }
-            set { ASCIIEncoding = value; }
+            set { ii = value; }
         }
     }
 }
