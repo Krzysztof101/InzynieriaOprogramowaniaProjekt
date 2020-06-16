@@ -1,0 +1,135 @@
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\ApStomat\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\ApStomat\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\ApStomat\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\Nowy folder\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\Kamil\Desktop\InzynieriaOprogramowaniaProjekt\ApStomat\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.FormKonfig.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.FormZdjecie.resources
+C:\Users\m\Desktop\inzOpr2\ApStomat\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormZdjecie.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormKonfig.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\Kamil\Desktop\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormZdjecie.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormKonfig.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapisUsuwanie.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\InzOpr3\ApStomat najnowszy\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormZdjecie.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormKonfig.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr4\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapis.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\bin\Debug\ApStomat.exe.config
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\bin\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\bin\Debug\ApStomat.pdb
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csprojAssemblyReference.cache
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.Form1.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormZdjecie.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormKonfig.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormPacjentEditShow.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.FormPacjent.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormZapis.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormPobierzHaslo.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormTworzenieHasla.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\AplikacjaStomatologiczna.FormDiagram.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.Properties.Resources.resources
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csproj.GenerateResource.cache
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.exe
+C:\Users\m\Desktop\inzOpr5\ApStomat czysty\ApStomat\obj\Debug\ApStomat.pdb
